@@ -21,7 +21,8 @@
         "drupal/core-project-message": "^9.3",
         "drupal/core-recommended": "^9.3",
         "drupal/ds": "^3.13",
-        "drupal/field_group": "^3.2"
+        "drupal/field_group": "^3.2",
+        "drush/drush": "^10.6"
     },
     "conflict": {
         "drupal/drupal": "*"
